@@ -1,26 +1,20 @@
-# Siber Güvenlik Portföyü
+# Hi, I'm [Memiş]
 
-Merhaba, ben Memiş.
-Siber güvenlik alanında Python tabanlı güvenlik araçları geliştiriyorum.
-Özellikle log analizi, brute-force tespiti ve OSINT araçları üzerine çalışıyorum.
+Cybersecurity Researcher | Ethical Hacker | Open Source Developer
 
-## Teknik Yetenekler
-- Python
-- Linux / Termux
-- Git & GitHub
-- Log analizi
-- Network temelleri
-- OSINT araçları
+## About Me
+- Focused on ethical cybersecurity tools
+- Passionate about protecting communities from digital threats
+- Open-source contributor
 
-## Projeler
+## Projects
+- 🔍 Port Scanner (Python)
+- 📊 Log Analyzer
+- 🛡️ Basic Vulnerability Checker
 
-### Bruteforce Detector
-SSH loglarını analiz ederek brute force saldırılarını tespit eden Python aracı.
+## Tech Stack
+Python | Linux | Git | Networking | OSINT
 
-### Log Analyzer
-Sunucu loglarını analiz eden ve şüpheli IP adreslerini raporlayan script.
-
-### Simple Port Scanner
-Socket tabanlı port tarama aracı (eğitim amaçlı).
-
-## Ama
+## Contact
+- GitHub Issues
+- Email: mailin@example.com
