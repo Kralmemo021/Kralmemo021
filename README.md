@@ -1,15 +1,26 @@
 # Siber Güvenlik Portföyü
 
 Merhaba, ben Memiş.
-Siber güvenlik alanında araç geliştirme ve araştırma yapıyorum.
+Siber güvenlik alanında Python tabanlı güvenlik araçları geliştiriyorum.
+Özellikle log analizi, brute-force tespiti ve OSINT araçları üzerine çalışıyorum.
 
-## Uzmanlık Alanları
+## Teknik Yetenekler
+- Python
+- Linux / Termux
+- Git & GitHub
 - Log analizi
-- Brute force tespiti
-- OSINT
-- Python güvenlik araçları
+- Network temelleri
+- OSINT araçları
 
 ## Projeler
-- bruteforce-detector
-- log-analyzer
-- simple-port-scanner
+
+### Bruteforce Detector
+SSH loglarını analiz ederek brute force saldırılarını tespit eden Python aracı.
+
+### Log Analyzer
+Sunucu loglarını analiz eden ve şüpheli IP adreslerini raporlayan script.
+
+### Simple Port Scanner
+Socket tabanlı port tarama aracı (eğitim amaçlı).
+
+## Ama
