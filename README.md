@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Kralmemo021
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Siber Güvenlik Portföyü
 
-<!---
-Kralmemo021/Kralmemo021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Merhaba, ben Memiş.
+Siber güvenlik alanında araç geliştirme ve araştırma yapıyorum.
 
+## Uzmanlık Alanları
+- Log analizi
+- Brute force tespiti
+- OSINT
+- Python güvenlik araçları
 
+## Projeler
+- bruteforce-detector
+- log-analyzer
+- simple-port-scanner
