@@ -1,20 +1,18 @@
-# Hi, I'm [Memiş]
+# 👋 Hi, I'm Memo
 
-Cybersecurity Researcher | Ethical Hacker | Open Source Developer
+Cybersecurity researcher focused on defensive security.
 
-## About Me
-- Focused on ethical cybersecurity tools
-- Passionate about protecting communities from digital threats
-- Open-source contributor
+## 🔐 Areas of Interest
+- OSINT
+- Log Analysis
+- Threat Detection
+- Python Security Tools
 
-## Projects
-- 🔍 Port Scanner (Python)
-- 📊 Log Analyzer
-- 🛡️ Basic Vulnerability Checker
+## 🛠 Tech Stack
+- Python
+- Linux
+- Git
+- Networking Fundamentals
 
-## Tech Stack
-Python | Linux | Git | Networking | OSINT
-
-## Contact
-- GitHub Issues
-- Email: mailin@example.com
+## 📂 Highlighted Projects
+Check pinned repositories below.
