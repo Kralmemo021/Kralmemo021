@@ -1,18 +1,31 @@
-# 👋 Hi, I'm Memo
+<h1 align="center">⚡ Kralmemo021 ⚡</h1>
 
-Cybersecurity researcher focused on defensive security.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=700&lines=Accessing+System...;User:+Kralmemo021;Cyber+Security+Learner;Python+Developer;Termux+Enthusiast;Loading+Security+Tools...">
+</p>
 
-## 🔐 Areas of Interest
-- OSINT
-- Log Analysis
-- Threat Detection
-- Python Security Tools
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.x-green">
+<img src="https://img.shields.io/badge/Platform-Termux-blue">
+<img src="https://img.shields.io/badge/CyberSecurity-Learning-red">
+</p>
 
-## 🛠 Tech Stack
-- Python
-- Linux
-- Git
-- Networking Fundamentals
+---
 
-## 📂 Highlighted Projects
-Check pinned repositories below.
+## 💻 Terminal
+
+```bash
+$ whoami
+Kralmemo021
+
+$ role
+Cyber Security Learner
+
+$ skills
+python
+termux
+linux
+git
+
+$ status
+learning & building security tools
