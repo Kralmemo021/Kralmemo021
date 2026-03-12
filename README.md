@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=700&lines=Accessing+System...;User:+Kralmemo021;Cyber+Security+Learner;Python+Developer;Termux+User">
+</p>
 <h1 align="center">⚡ Kralmemo021 ⚡</h1>
 
 <p align="center">
