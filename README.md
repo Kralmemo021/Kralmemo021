@@ -1,25 +1,28 @@
-<!-- HERO BANNER -->
+<!-- MATRIX HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=Kralmemo021&fontSize=40&fontColor=00ff88&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
-  <b>Cyber Security Learner • Termux • Linux • Python</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff88&height=200&section=header&text=Kralmemo021&fontColor=00ff88&fontSize=40" />
 </p>
 
 ---
 
-## 💻 Terminal Identity
+## 🧠 SYSTEM STATUS
 
 ```bash
-$ whoami
+$ boot
+initializing security profile...
+
+$ identity
 Kralmemo021
 
-$ role
-Cyber Security Learner
+$ mode
+cyber security learner
 
-$ focus
-Ethical hacking • automation • Linux tools
+$ kernel
+linux + termux environment
 
 $ status
-building... learning... improving...
+ACTIVE - BUILDING TOOLS
