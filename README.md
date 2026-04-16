@@ -1,21 +1,15 @@
+<!-- HERO BANNER -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=700&lines=Accessing+System...;User:+Kralmemo021;Cyber+Security+Learner;Python+Developer;Termux+User">
-</p>
-<h1 align="center">⚡ Kralmemo021 ⚡</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=700&lines=Accessing+System...;User:+Kralmemo021;Cyber+Security+Learner;Python+Developer;Termux+Enthusiast;Loading+Security+Tools...">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=Kralmemo021&fontSize=40&fontColor=00ff88&animation=fadeIn" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3.x-green">
-<img src="https://img.shields.io/badge/Platform-Termux-blue">
-<img src="https://img.shields.io/badge/CyberSecurity-Learning-red">
+  <b>Cyber Security Learner • Termux • Linux • Python</b>
 </p>
 
 ---
 
-## 💻 Terminal
+## 💻 Terminal Identity
 
 ```bash
 $ whoami
@@ -24,11 +18,8 @@ Kralmemo021
 $ role
 Cyber Security Learner
 
-$ skills
-python
-termux
-linux
-git
+$ focus
+Ethical hacking • automation • Linux tools
 
 $ status
-learning & building security tools
+building... learning... improving...
